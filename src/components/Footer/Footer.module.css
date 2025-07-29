@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@300;400;600;700&family=Poppins:wght@400;700&family=Roboto:wght@400;700&display=swap');
+
+.container{
+
+    background-color: #0096c7;
+    height: 60vh;
+    width: 100%;
+    /* opacity: 0.1; */
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}

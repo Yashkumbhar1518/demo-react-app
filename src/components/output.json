@@ -1,0 +1,162 @@
+[
+  {
+    "Service": "Electrician",
+    "ProviderName": "Suraj Bhilare",
+    "Price": "500/-"
+  },
+  {
+    "Service": "Electrician",
+    "ProviderName": "Saurabh Patil",
+    "Price": "500/-"
+  },
+  {
+    "Service": "Electrician",
+    "ProviderName": "Mayur Kank",
+    "Price": "500/-"
+  },
+  {
+    "Service": "Electrician",
+    "ProviderName": "Abhishek Sedge",
+    "Price": "500/-"
+  },
+  {
+    "Service": "Painter",
+    "ProviderName": "Rushikesh Pol",
+    "Price": "1000/-"
+  },
+  {
+    "Service": "Painter",
+    "ProviderName": "Karan Kute",
+    "Price": "1000/-"
+  },
+  {
+    "Service": "Painter",
+    "ProviderName": "Harsh Zanjad",
+    "Price": "1000/-"
+  },
+  {
+    "Service": "Painter",
+    "ProviderName": "Darshan Aiwale",
+    "Price": "1000/-"
+  },
+  {
+    "Service": "Carpenter",
+    "ProviderName": "Hritik Dhanve",
+    "Price": "800/-"
+  },
+  {
+    "Service": "Carpenter",
+    "ProviderName": "Vinay Ghule",
+    "Price": "800/-"
+  },
+  {
+    "Service": "Carpenter",
+    "ProviderName": "Raj Ramani",
+    "Price": "800/-"
+  },
+  {
+    "Service": "Carpenter",
+    "ProviderName": "Aushutosh Parit",
+    "Price": "800/-"
+  },
+  {
+    "Service": "Cleaning",
+    "ProviderName": "Pranay Kadam",
+    "Price": "1500/-"
+  },
+  {
+    "Service": "Cleaning",
+    "ProviderName": "Adnaan Sayed",
+    "Price": "1500/-"
+  },
+  {
+    "Service": "Cleaning",
+    "ProviderName": "Omkar Salunkhe",
+    "Price": "1500/-"
+  },
+  {
+    "Service": "Cleaning",
+    "ProviderName": "Shreeraj",
+    "Price": "1500/-"
+  },
+  {
+    "Service": "Flooring",
+    "ProviderName": "Manish Juyal",
+    "Price": "3000/-"
+  },
+  {
+    "Service": "Flooring",
+    "ProviderName": "Yash Rane",
+    "Price": "3000/-"
+  },
+  {
+    "Service": "Flooring",
+    "ProviderName": "Sai More",
+    "Price": "3000/-"
+  },
+  {
+    "Service": "Flooring",
+    "ProviderName": "Prathamesh Shirole",
+    "Price": "3000/-"
+  },
+  {
+    "Service": "Plumbing",
+    "ProviderName": "Atharv Satam",
+    "Price": "2000/-"
+  },
+  {
+    "Service": "Plumbing",
+    "ProviderName": "Vinit Chavan",
+    "Price": "2000/-"
+  },
+  {
+    "Service": "Plumbing",
+    "ProviderName": "Jaydeep Tayade",
+    "Price": "2000/-"
+  },
+  {
+    "Service": "Plumbing",
+    "ProviderName": "Chandan Chavan",
+    "Price": "2000/-"
+  },
+  {
+    "Service": "Remodeling",
+    "ProviderName": "Rohit Pande",
+    "Price": "10000/-"
+  },
+  {
+    "Service": "Remodeling",
+    "ProviderName": "Rohan Zalte",
+    "Price": "10000/-"
+  },
+  {
+    "Service": "Remodeling",
+    "ProviderName": "Advait Tandel",
+    "Price": "10000/-"
+  },
+  {
+    "Service": "Remodeling",
+    "ProviderName": "Ahmed Khan",
+    "Price": "10000/-"
+  },
+  {
+    "Service": "Water Proofing",
+    "ProviderName": "Suchit Saigaonkar",
+    "Price": "4000/-"
+  },
+  {
+    "Service": "Water Proofing",
+    "ProviderName": "Vedant Patil",
+    "Price": "4000/-"
+  },
+  {
+    "Service": "Water Proofing",
+    "ProviderName": "Avishkar Patil",
+    "Price": "4000/-"
+  },
+  {
+    "Service": "Water Proofing",
+    "ProviderName": "Sanket Rawale",
+    "Price": "4000/-"
+  }
+]

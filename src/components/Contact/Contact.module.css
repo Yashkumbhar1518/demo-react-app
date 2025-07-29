@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@300;400;600;700&family=Poppins:wght@400;700&family=Roboto:wght@400;700&display=swap');
+
+.container{
+    background-image: url('../../../public/images/contact1.jpg');
+    width: 100vw;
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    object-fit:fill ;
+    padding-top: 20px;
+    margin-top: 10px;
+    /* z-index: -1; */
+}
