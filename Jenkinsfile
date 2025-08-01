@@ -21,7 +21,7 @@ pipeline{
         sh 'npm run build'
       }
     }
-    stage('Install serve and run app){
+    stage('Install serve and run app'){
        steps{
          sh 'npm install -g serve'
          sh 'serve -s build -l 3000 &'
